@@ -179,3 +179,23 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+/* unvisited link */
+a:link {
+    color: #5CB85C;
+}
+
+/* visited link */
+a:visited {
+    color: #4CAE4C;
+}
+
+/* mouse over link */
+a:hover {
+    color: #4CAE4C;
+}
+
+/* selected link */
+a:active {
+    color: #4CAE4C;
+}
