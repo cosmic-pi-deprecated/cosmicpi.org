@@ -49,15 +49,24 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="intro-message">
-                        <h1>COSMIC PI</h1>
-                        <h3>The cosmic ray detector on your desktop</h3>
+					  <h1>
+						<a href="index.php?page_id=8" style="color: #fff !important; text-decoration:none;">
+							<!-- COSMIC PI -->
+							<img width="450px" src="/img/logo_small_transp.png">
+						</a>
+					  </h1>
+                        <h3>
+						  <a href="index.php?page_id=8" style="color: #fff !important; text-decoration:none;">
+							The cosmic ray detector on your desktop
+						  </a>
+						</h3>
                         <hr class="intro-divider">
 <!--                         <ul class="list-inline intro-social-buttons">
                             <li>
                                 <a href="https://twitter.com/cosmicpi" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
                             </li>
                             <li>
-                                <a href="https://github.com/jlsalmon/muons" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                                <a href="https://github.com/cosmicpi" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
                             </li>
                             <li>
                                 <a href="https://facebook.com/cosmicpi" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
@@ -65,7 +74,16 @@
                         </ul> -->
                         
                         <div class="col-lg-6 col-lg-offset-3">
-            <p class="lead">The Cosmic Pi project aims to build the world's largest distributed cosmic ray telescope. You can be a part of the project, by becoming a Cosmic Pixel!</p>
+            <p class="lead">
+			  <a href="index.php?page_id=8" style="color: #fff !important; text-decoration:none;">
+			  The Cosmic Pi project aims to build the world's largest open source distributed cosmic ray telescope. 
+				You can be a part of the project, by becoming a Cosmic Pixel!
+			  </a>
+			</p>
+			<p class="lead">
+			  Read more about the project on our <a href="index.php?page_id=8">blog</a>, 
+			  or go straight to our <a href="http://www.ohwr.org/projects/cosmic-pi">prototype design</a>.
+			</p>
             <br>
             <p class="lead">Sign up to be notified of our launch!</p>
           </div>
@@ -89,7 +107,7 @@
                 placeholder="Enter your email address">
               </div>
               <div class="es_button input-group-btn">
-                <input class="es_textbox_button btn btn-lg btn-success" name="es_txt_button_pg" id="es_txt_button_pg" onclick="return es_submit_pages('http://cosmicpi.org/')" value="Subscribe" type="button">
+                <input class="es_textbox_button btn btn-lg btn-primary" name="es_txt_button_pg" id="es_txt_button_pg" onclick="return es_submit_pages('http://cosmicpi.org/')" value="Subscribe" type="button">
               </div>
             </div>
             <input name="es_txt_name_pg" id="es_txt_name_pg" value="" type="hidden">
@@ -117,103 +135,6 @@
     </div>
     <!-- /.intro-header -->
 
-    <!-- Page Content -->
-
-<!-- 	<a  name="services"></a>
-    <div class="content-section-a">
-
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-5 col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">Be a Cosmic Pixel</h2>
-                    <p class="lead">The Cosmic Pi project aims to build the world's largest distributed cosmic ray telescope. You can be a part of the project, by becoming a Cosmic Pixel!</p>
-                </div>
-                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/electronics.png" alt="">
-                </div>
-            </div>
-
-        </div>
-        /.container
-
-    </div>
-    /.content-section-a -->
-
-<!--     <div class="content-section-b">
-
-        <div class="container">
-
-            <div class="row">
-                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">Detect your own Cosmic Rays</h2>
-                    <p class="lead">With Cosmic Pi, you can have your very own cosmic ray detector, on your desktop. Catch your cosmic rays, and see them become part of the world's largest cosmic ray telescope!</p>
-                </div>
-                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                    <img class="img-responsive" src="img/pixel-map.jpg" alt="">
-                </div>
-            </div>
-
-        </div>
-        /.container
-
-    </div> -->
-    <!-- /.content-section-b -->
-
-<!--     <div class="content-section-a">
-
-        <div class="container">
-
-            <div class="row">
-                <div class="col-lg-5 col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">Google Web Fonts and<br>Font Awesome Icons</h2>
-                    <p class="lead">This template features the 'Lato' font, part of the <a target="_blank" href="http://www.google.com/fonts">Google Web Font library</a>, as well as <a target="_blank" href="http://fontawesome.io">icons from Font Awesome</a>.</p>
-                </div>
-                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/phones.png" alt="">
-                </div>
-            </div>
-
-        </div>
-        /.container
-
-    </div>
-    /.content-section-a -->
-
-<!-- 	<a  name="contact"></a>
-    <div class="banner">
-
-        <div class="container">
-
-            <div class="row">
-                <div class="col-lg-6">
-                    <h2>Connect to Cosmic Pi:</h2>
-                </div>
-                <div class="col-lg-6">
-                    <ul class="list-inline banner-social-buttons">
-                            <li>
-                                <a href="https://twitter.com/cosmicpi" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
-                            </li>
-                            <li>
-                                <a href="https://github.com/jlsalmon/muons" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
-                            </li>
-                            <li>
-                                <a href="https://facebook.com/cosmicpi" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
-                            </li>
-                    </ul>
-                </div>
-            </div>
-
-        </div>
-        /.container
-
-    </div> -->
-    <!-- /.banner -->
 
     <!-- Footer -->
     <footer>
@@ -233,7 +154,9 @@
                             <a href="index.php?page_id=6">About</a>
                         </li>
                     </ul>
-                    <p class="copyright text-muted small">Copyright &copy; Cosmic Pi Inc. 2015. All Rights Reserved</p>
+				  <p class="copyright text-muted small">Copyright &copy; Cosmic Pi Inc. 2015. All Rights Reserved.</p>fi
+				  	
+					<p class="copyright text-muted small">Background Image Credit: ESA/Hubble, NASA and H. Ebeling.</p>
                 </div>
             </div>
         </div>
